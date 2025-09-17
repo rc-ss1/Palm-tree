@@ -1,0 +1,20 @@
+
+l	java:S116"RRename this field "Groviva" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«‹¥şÿÿÿÿ
+n	java:S116"YRename this field "Head_Shoulders" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëé£ò
+q	java:S116"WRename this field "Indus_Pharma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ºõ†úÿÿÿÿ
+h	java:S116"NRename this field "Axe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘€âÈûÿÿÿÿ
+q	java:S116"WRename this field "Nutri_Master" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µú¬ıùÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "product".(‹×µÿÿÿÿÿ
+G
+java:S1481",Remove this unused "product" local variable.(‹×µÿÿÿÿÿ
+F
+java:S1068"+Remove this unused "Groviva" private field.(ó«‹¥şÿÿÿÿ
+H
+java:S1068"2Remove this unused "Head_Shoulders" private field.(Ëé£ò
+K
+java:S1068"0Remove this unused "Indus_Pharma" private field.(§ºõ†úÿÿÿÿ
+B
+java:S1068"'Remove this unused "Axe" private field.(‘€âÈûÿÿÿÿ
+K
+java:S1068"0Remove this unused "Nutri_Master" private field.(µú¬ıùÿÿÿÿ

@@ -1,0 +1,12 @@
+
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙƒ¤üÿÿÿÿ8ÉÊã ¶2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô“½ö8ËÊã ¶2
+m
+java:S1858"K"filePath" is already a string, there's no need to call "toString()" on it.(ó±€µøÿÿÿÿ8ÂËã ¶2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­å›¯8ÃËã ¶2
+h
+java:S1858"K"filePath" is already a string, there's no need to call "toString()" on it.(éŸŸŞ8ÄËã ¶2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è³±ª8ÅËã ¶2
+R
+java:S1172#"0Remove this unused method parameter "excelName".(Îë–¾ûÿÿÿÿ8ÆËã ¶2
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙƒ¤üÿÿÿÿ8ßËã ¶2

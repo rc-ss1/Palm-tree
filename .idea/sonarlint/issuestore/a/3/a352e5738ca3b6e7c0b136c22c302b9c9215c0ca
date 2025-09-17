@@ -1,0 +1,33 @@
+
+]
+java:S1192”"FDefine a constant instead of duplicating this literal "value" 4 times.(º¶”Ô
+y
+java:S1488@"cImmediately return this expression instead of assigning it to the temporary variable "isDisplayed".(İÄÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã±¥³
+H
+java:S1172"-Remove this unused method parameter "driver".(Ü‡ÓÂüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì²µşÿÿÿÿÿ
+h	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å®›Óüÿÿÿÿ
+T
+java:S1155@">Use isEmpty() to check whether the collection is empty or not.(İÄÄ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(ùºí
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(«Öïÿ
+B
+java:S1172_"-Remove this unused method parameter "driver".(©¶ş;
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(«Öïÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(œ¹æ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(˜ùŞ¼
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(÷Ÿ‚
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ä®û…üÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ØØæ˜üÿÿÿÿ
+C
+java:S1172ª"-Remove this unused method parameter "driver".(„Ùf
+N	java:S106°"9Replace this use of System.out or System.err by a logger.(™À
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¹åÓ…ûÿÿÿÿ
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(¹åÓ…ûÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(’Îÿ®
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(¸ñŞÂÿÿÿÿÿ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ûü¨‹ûÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(îòÚóşÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Ë×ÇÑ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ØØæ˜üÿÿÿÿ

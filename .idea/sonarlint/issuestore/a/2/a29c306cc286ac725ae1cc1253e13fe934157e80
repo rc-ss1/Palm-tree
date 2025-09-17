@@ -1,0 +1,22 @@
+
+t	java:S116"XRename this field "AllCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óõ´8á†¯Ò2
+q	java:S116"URename this field "FlowerShop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èü×»8â†¯Ò2
+n	java:S116"RRename this field "Product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¬§8â†¯Ò2
+u	java:S116"TRename this field "AddToCart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞ¸ûÿÿÿÿ8â†¯Ò2
+|	java:S116"[Rename this field "ContinueShopping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŞÃşÿÿÿÿÿ8â†¯Ò2
+t	java:S116"SRename this field "CartLink" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëë¯¾ûÿÿÿÿ8â†¯Ò2
+s	java:S116"WRename this field "DeleteButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äá¯¦8â†¯Ò2
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Òç¶´8ì†¯Ò2
+”
+java:S1130*"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ò‚ê°8í†¯Ò2
+”
+java:S1130."wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(™’Û8í†¯Ò2
+”
+java:S11302"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(óåÕ8î†¯Ò2
+”
+java:S11306"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Œ°–ä8ï†¯Ò2
+™
+java:S1130:"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ğ¿ºõÿÿÿÿÿ8¶…±Ò2
+L
+java:S1656"/Remove or correct this useless self-assignment.(ÆØæ8ï†¯Ò2

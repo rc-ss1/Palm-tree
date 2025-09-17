@@ -1,0 +1,21 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(æ¯¶Îüÿÿÿÿ8íÓ”³»2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8îÓ”³»2
+]	java:S125"<This block of commented-out lines of code should be removed.(»É–ûÿÿÿÿ8ñÓ”³»2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚·Æ¾8ùÓ”³»2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8úÓ”³»2
+X	java:S125'"<This block of commented-out lines of code should be removed.(ÙóË’8şÓ”³»2
+]	java:S125)"<This block of commented-out lines of code should be removed.(»€´üÿÿÿÿ8şÓ”³»2
+c
+java:S10759"ARefactor your code to get this URI from a customizable parameter.(°ôöşÿÿÿÿ8…Ô”³»2
+]	java:S125D"<This block of commented-out lines of code should be removed.(°‘ÿÿÿÿÿ8‰Ô”³»2
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(”“î€8Ô”³»2
+V
+java:S1117R"9Rename "frame" which hides the field declared at line 17.(İ•ì8‘Ô”³»2
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ŒÛ€şÿÿÿÿ8•Ô”³»2
+E
+java:S1068")Remove this unused "frame" private field.(ÏŞû-8–Ô”³»2
+J
+java:S1068".Remove this unused "chooseFile" private field.(†ğ”M8—Ô”³»2

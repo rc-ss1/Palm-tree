@@ -1,0 +1,11 @@
+
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙƒ¤üÿÿÿÿ
+f
+java:S1858"K"filePath" is already a string, there's no need to call "toString()" on it.(ó±€µøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­å›¯
+a
+java:S1858"K"filePath" is already a string, there's no need to call "toString()" on it.(éŸŸÞ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(è³±ª
+K
+java:S1172#"0Remove this unused method parameter "excelName".(Îë–¾ûÿÿÿÿ
+h	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙƒ¤üÿÿÿÿ

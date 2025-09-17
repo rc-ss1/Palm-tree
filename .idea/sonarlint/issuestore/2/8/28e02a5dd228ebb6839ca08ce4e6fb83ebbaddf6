@@ -1,0 +1,16 @@
+
+z
+java:S1192&"]Define a constant instead of duplicating this literal "//input[@id='search_bar_id']" 3 times.(ıÑ‚‹8àÙÜ±á2
+…
+java:S1488L"cImmediately return this expression instead of assigning it to the temporary variable "getCakeText".(ßíæ´ùÿÿÿÿ8áÙÜ±á2
+‘
+java:S1488e"oImmediately return this expression instead of assigning it to the temporary variable "getChocolateTextOnPage2".(»è¢°ûÿÿÿÿ8âÙÜ±á2
+‹
+java:S1488l"nImmediately return this expression instead of assigning it to the temporary variable "getGameOutdoorPlayText".(Àù‹˜8âÙÜ±á2
+X	java:S125+"<This block of commented-out lines of code should be removed.(æáà×8€ÛÜ±á2
+W	java:S125@"<This block of commented-out lines of code should be removed.(­¥ãz8‡ÛÜ±á2
+“
+java:S1130c"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ãó‚O8ŸÛÜ±á2
+X	java:S125d"<This block of commented-out lines of code should be removed.(ùí†Œ8 ÛÜ±á2
+X	java:S125"<This block of commented-out lines of code should be removed.(›ÌË38­ÛÜ±á2
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(² ¿±øÿÿÿÿ8ÂÛÜ±á2
